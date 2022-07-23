@@ -1,4 +1,4 @@
-@import url('https://rsms.me/inter/inter-display.css');
+@import url('fonts/inter/inter-display.css');
 html { font-family: 'InterDisplay', sans-serif; }
 @supports (font-variation-settings: normal) {
   html { font-family: 'InterDisplay var', sans-serif; }
