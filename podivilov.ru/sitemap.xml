@@ -9,7 +9,13 @@
     <url>
         <loc>https://podivilov.ru/blog/</loc>
         <priority>1.0</priority>
-        <lastmod>2022-01-22</lastmod>
+        <lastmod>2022-11-18</lastmod>
+        <changefreq>never</changefreq>
+    </url>
+    <url>
+        <loc>https://podivilov.ru/archive/</loc>
+        <priority>1.0</priority>
+        <lastmod>2022-11-18</lastmod>
         <changefreq>always</changefreq>
     </url>
 </urlset>
